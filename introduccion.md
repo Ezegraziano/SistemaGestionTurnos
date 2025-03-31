@@ -38,5 +38,7 @@ La Programación Orientada a Objetos (POO) es un paradigma de desarrollo de soft
 
 ## 🎨 Boceto Inicial del Diseño de Clases
 
+https://app.diagrams.net/#HEzegraziano%2FSistemaGestionTurnos%2Fmain%2FDiagrama%20sin%20título.drawio#%7B"pageId"%3A"e7e014a7-5840-1c2e-5031-d8a46d1fe8dd"%7D
+
 
    
