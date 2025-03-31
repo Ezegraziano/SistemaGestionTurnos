@@ -35,7 +35,6 @@ La Programación Orientada a Objetos (POO) es un paradigma de desarrollo de soft
 - **Precondiciones:** El usuario debe estar registrado e iniciar sesión.
 - **Postcondiciones:** El turno queda registrado en el sistema.
 
-*(Repetir para los otros cuatro casos de uso)*
 
 ## 🎨 Boceto Inicial del Diseño de Clases
 
