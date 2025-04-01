@@ -40,5 +40,7 @@ La Programación Orientada a Objetos (POO) es un paradigma de desarrollo de soft
 
 ![](ImagenBoceto1.png) 
 
+![](ImagenBoceto2.png) 
+
 
    
